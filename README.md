@@ -13,7 +13,7 @@
 ## Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-ai-assistant.git
+git clone https://github.com/KIRIT-P-S/Live-Data-Integration-With-LLM.git
 cd smart-ai-assistant
 ```
 
